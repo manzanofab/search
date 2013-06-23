@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Fabian Manzano",
+        "country": "Colombia",
+        "description": "He is from Colombia"
+    },
+    {
+        "name": "Alexandra Bec",
+        "country": [
+            {
+                "visa 1": "USA"
+            },
+            {
+                "Visa 2": "Canada"
+            }
+        ],
+        "description": "She is very silly"
+    },
+    {
+        "name": "Falcao",
+        "country": {
+            "Team 1": {
+                "City": "Monaco"
+            },
+            "Team 2": {
+                "City": "Porto"
+            }
+        },
+        "description": "He is top striker"
+    }
+]
